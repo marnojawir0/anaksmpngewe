@@ -1,5 +1,5 @@
 export const url = 'https://anaksmpngewe.pages.dev';
-export const nama = 'Anak Kecil Ngewe';
+export const nama = 'Anak Smp Ngewe';
 export const desk = 'Video Bokep Indo Terbaru Bocil Ngentot Jilbab Smp Mama Viral Sma Cindo Tante';
 export const terbit = '2025-01-25T00:01:03Z';
 
